@@ -9,7 +9,7 @@ function First_React_Project(){
           
           <img src={myImage} alt="My Image" style={{ width: '300px', height: 'auto'}} />
           <h2>Thunivu U/A</h2>
-          <h3>RUNTIME - 2.32</h3>
+          <h3>RUNTIME - 2.00000</h3>
           
         </div>
       );
